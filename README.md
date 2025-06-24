@@ -1,6 +1,7 @@
 # Guess My Number! 🎯
 
 A fun and interactive number guessing game built with vanilla JavaScript, HTML, and CSS. Test your luck and see if you can guess the secret number!
+<img width="1496" alt="Screenshot 2025-06-25 at 01 31 26" src="https://github.com/user-attachments/assets/d8a612e1-8df3-40b8-8932-45a322a4ce90" />
 
 ## 🎮 How to Play
 
