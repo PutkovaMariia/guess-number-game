@@ -27,7 +27,6 @@ A fun and interactive number guessing game built with vanilla JavaScript, HTML, 
 - **HTML5**: Structure and markup
 - **CSS3**: Styling and animations
 - **Vanilla JavaScript**: Game logic and interactivity
-- **Google Fonts**: "Press Start 2P" for retro gaming aesthetic
 
 ## Live Demo
 https://putkovamariia.github.io/guess-number-game/
